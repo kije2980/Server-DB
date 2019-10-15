@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "0192837465",
-    "database": "nodejs",
+    "database": "fooddb",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
